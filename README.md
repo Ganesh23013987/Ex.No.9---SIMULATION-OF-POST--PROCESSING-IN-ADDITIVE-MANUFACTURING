@@ -36,7 +36,7 @@
 ## Support Removal Process
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/3dcbb3d0-c7ce-4950-8e6f-0382a62698aa">
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/cf84c859-05d2-4c92-82c7-09ad550e9ac4">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/cf84c859-05d2-4c92-82c7-09ad550e9ac4">
 
 
 ## UV Curing of 3D printed part

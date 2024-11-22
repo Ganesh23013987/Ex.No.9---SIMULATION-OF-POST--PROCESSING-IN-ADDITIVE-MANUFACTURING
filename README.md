@@ -42,7 +42,8 @@
 ## UV Curing of 3D printed part
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/03eab3be-f686-4e63-9ab6-0db9d466eb80">
 
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/55084f58-683f-4a2b-b7b1-c9d65dcee4c4)
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/b22163ac-7b10-4f64-a693-6d18b6e8eccd">
+
 
 ## Heat Treatment of 3D printed part
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)

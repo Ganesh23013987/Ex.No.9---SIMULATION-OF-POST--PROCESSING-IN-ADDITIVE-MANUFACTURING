@@ -46,7 +46,8 @@
 
 
 ## Heat Treatment of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/ccb5dfae-4231-48cb-802e-6de59c62733f">
+
 
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
 

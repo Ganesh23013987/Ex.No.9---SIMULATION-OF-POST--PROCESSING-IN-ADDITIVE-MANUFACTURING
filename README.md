@@ -49,7 +49,8 @@
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/ccb5dfae-4231-48cb-802e-6de59c62733f">
 
 
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/d6b59962-d8ed-4c5f-bbe7-4dd9a3e4da61">
+
 
 ### Name: GANESH D
 ### Register Number: 212223240035

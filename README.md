@@ -40,7 +40,7 @@
 
 
 ## UV Curing of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/16946a37-3062-4b0e-97f7-a8f72a1431f6)
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/03eab3be-f686-4e63-9ab6-0db9d466eb80">
 
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/55084f58-683f-4a2b-b7b1-c9d65dcee4c4)
 

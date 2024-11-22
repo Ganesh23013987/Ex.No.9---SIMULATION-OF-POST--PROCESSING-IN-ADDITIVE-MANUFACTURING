@@ -34,7 +34,7 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/d9b3478c-e991-437b-af74-eaba99876d8f)
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/3dcbb3d0-c7ce-4950-8e6f-0382a62698aa">
 
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/224d88d0-ceb6-4001-b200-1900808aa22e)
 

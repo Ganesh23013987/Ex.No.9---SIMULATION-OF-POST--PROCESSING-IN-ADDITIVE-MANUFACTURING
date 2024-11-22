@@ -36,7 +36,8 @@
 ## Support Removal Process
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/3dcbb3d0-c7ce-4950-8e6f-0382a62698aa">
 
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/224d88d0-ceb6-4001-b200-1900808aa22e)
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/cf84c859-05d2-4c92-82c7-09ad550e9ac4">
+
 
 ## UV Curing of 3D printed part
 ![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/16946a37-3062-4b0e-97f7-a8f72a1431f6)
